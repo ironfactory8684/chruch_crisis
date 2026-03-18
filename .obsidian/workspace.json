@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/08. chapter08.md",
+                "file": "content/14. appendix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08. chapter08"
+              "title": "14. appendix"
             }
           }
         ],
@@ -200,23 +200,23 @@
   },
   "active": "e161d4e211f601cc",
   "lastOpenFiles": [
+    "content/13. epilogue.md",
+    "content/12. chapter12.md",
     "content/11. chapter11.md",
     "content/10. chapter10.md",
+    "content/09. chapter09.md",
+    "content/08. chapter08.md",
+    "content/07. chapter07.md",
+    "content/06. chapter06.md",
+    "content/05. chapter05.md",
+    "content/04. chapter04.md",
+    "content/03. chapter03.md",
+    "content/02. chapter02.md",
+    "content/01. chapter01.md",
     "guide_line.md",
     "intention.md",
     "content/14. appendix.md",
     "content/0. prologue.md",
-    "content/01. chapter01.md",
-    "content/02. chapter02.md",
-    "content/03. chapter03.md",
-    "content/04. chapter04.md",
-    "content/05. chapter05.md",
-    "content/06. chapter06.md",
-    "content/07. chapter07.md",
-    "content/08. chapter08.md",
-    "content/09. chapter09.md",
-    "content/12. chapter12.md",
-    "content/13. epilogue.md",
     "content"
   ]
 }
