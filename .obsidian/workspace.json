@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/14. appendix.md",
+                "file": "content/0. prologue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. appendix"
+              "title": "0. prologue"
             }
           }
         ],
@@ -200,6 +200,9 @@
   },
   "active": "e161d4e211f601cc",
   "lastOpenFiles": [
+    "content/14. appendix.md",
+    "combined_content.pdf",
+    "combine_and_convert.py",
     "content/13. epilogue.md",
     "content/12. chapter12.md",
     "content/11. chapter11.md",
@@ -215,7 +218,6 @@
     "content/01. chapter01.md",
     "guide_line.md",
     "intention.md",
-    "content/14. appendix.md",
     "content/0. prologue.md",
     "content"
   ]
