@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "0. prologue"
             }
+          },
+          {
+            "id": "83329afd7b1c1777",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,8 +210,13 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "e161d4e211f601cc",
+  "active": "83329afd7b1c1777",
   "lastOpenFiles": [
+    "교회 m&a시대를 해부하다(가칭).pdf",
+    "content/03. chapter03.md",
+    "content/02. chapter02.md",
+    "content/01. chapter01.md",
+    "content/0. prologue.md",
     "content/14. appendix.md",
     "combined_content.pdf",
     "combine_and_convert.py",
@@ -213,12 +230,8 @@
     "content/06. chapter06.md",
     "content/05. chapter05.md",
     "content/04. chapter04.md",
-    "content/03. chapter03.md",
-    "content/02. chapter02.md",
-    "content/01. chapter01.md",
     "guide_line.md",
     "intention.md",
-    "content/0. prologue.md",
     "content"
   ]
 }
