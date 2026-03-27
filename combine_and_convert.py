@@ -87,7 +87,7 @@ def convert_to_pdf(md_file, pdf_file):
 if __name__ == "__main__":
     SOURCE_DIRECTORY = "content"
     OUTPUT_MD = "combined_content.md"
-    OUTPUT_PDF = "combined_content.pdf"
+    OUTPUT_PDF = "교회_mna시대를_해부하다.pdf"
     
     # 1. Combine MD files
     if os.path.exists(SOURCE_DIRECTORY):
